@@ -1,0 +1,2 @@
+import"./chunk-SGIFNYAH.js";var t=[{path:"",pathMatch:"full",redirectTo:"login"},{path:"login",loadComponent:()=>import("./chunk-2EOFOADP.js").then(o=>o.PhoneEntryComponent)},{path:"otp",loadComponent:()=>import("./chunk-2O6LS5BF.js").then(o=>o.OtpVerifyComponent)},{path:"consent",loadComponent:()=>import("./chunk-JXFCGEFC.js").then(o=>o.ConsentComponent)}];export{t as AUTH_ROUTES};
+/**i18n:af6d6555e1b04104c79a4b97ed6c0654609d33d1f95e9fd6cdbeef6132d57285*/
